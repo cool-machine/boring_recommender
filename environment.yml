@@ -1,0 +1,17 @@
+name: p9-recsys
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - pyarrow
+  - pyspark
+  - tqdm
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - ipykernel
+  - pip
